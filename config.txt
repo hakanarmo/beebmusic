@@ -1,6 +1,6 @@
 token=NTUyMjcxMDgxNTY2NzY1MDY4.D19GKw.HmeGwhCeAJViSpbc1feWXW0f1kA
 owner=201460488037466112
 prefix=1
-game=1help - BeeB Joky
+game=1help - Jimmy Joky
 stayinchannel=true
 songinstatus=true
